@@ -20,10 +20,10 @@ pkg install curl
 git clone https://github.com/Hunter11821/WEB-TRAFFIC
 cd WEB-TRAFFIC
 
-if you need Indian views than type 👇👇
+if you need Indian views than type 👉
 php india.php
 
-if you need worldwide views than type 👇👇
+if you need worldwide views than type 👉
 php world.php
 
 
