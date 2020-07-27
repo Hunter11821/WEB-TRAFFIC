@@ -11,11 +11,17 @@ This Bot have two options boost your traffic in India and out of India
 Installation command :- 
 
 pkg install figlet
+
 pkg install ruby -y
+
 pkg install toilet -y
+
 pkg install php -y
+
 pkg install git
+
 pkg install git clone
+
 pkg install curl
 
 
