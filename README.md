@@ -16,6 +16,18 @@ pkg install git
 pkg install git clone
 pkg install curl
 
+
+git clone https://github.com/Hunter11821/WEB-TRAFFIC
+cd WEB-TRAFFIC
+
+if you need Indian views than type 👇👇
+php india.php
+
+if you need worldwide views than type 👇👇
+php world.php
+
+
+
 YouTube channel :- https://www.youtube.com/channel/UCndBK_Y6QHxLXZ2XLrf4zoQ
 
 Telegram channel :- https://telegram.dog/Hunter11821
