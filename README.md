@@ -4,7 +4,7 @@ This Bot is Made By @Hunter11821
 
 This bot boost your website traffic
 
-How to use Video Link
+How to use Video Link :- (update soon..) 
 
 This Bot have two options boost your traffic in India and out of India
 
