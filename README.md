@@ -10,29 +10,29 @@ This Bot have two options boost your traffic in India and out of India
 
 Installation command :- 
 
-pkg install figlet
+`pkg install figlet`
 
-pkg install ruby -y
+`pkg install ruby -y`
 
-pkg install toilet -y
+`pkg install toilet -y`
 
-pkg install php -y
+`pkg install php -y`
 
-pkg install git
+`pkg install git`
 
-pkg install git clone
+`pkg install git clone`
 
-pkg install curl
+`pkg install curl`
 
 
-git clone https://github.com/Hunter11821/WEB-TRAFFIC
-cd WEB-TRAFFIC
+`git clone https://github.com/Hunter11821/WEB-TRAFFIC`
+`cd WEB-TRAFFIC`
 
-if you need Indian views than type 👉
-php india.php
+if you need Indian views than type 
+`php india.php`
 
-if you need worldwide views than type 👉
-php world.php
+if you need worldwide views than type 
+`php world.php`
 
 
 
